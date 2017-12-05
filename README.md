@@ -1,7 +1,7 @@
-# Running on MySQL needs the schema cs544extracredit
-## CREATE SCHEMA cs544extracredit;
+## Running on MySQL needs the schema cs544extracredit
+### CREATE SCHEMA cs544extracredit;
 
-# Details
+## Details
 Goal: To create a database and the data access objects (DAOs) for a system to register volunteering projects and recruit for volunteers. There will be two types of roles: Administrators and Volunteers:
 
 1.	Should be able to:
